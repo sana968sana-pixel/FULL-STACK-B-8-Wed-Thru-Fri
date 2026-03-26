@@ -103,5 +103,6 @@ matrix = [
 
 # Access element at row 2, column 3
 print(matrix[1][2]) 
-
+print(matrix[1])
+print(matrix)
 print ("List examples ends here")
